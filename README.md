@@ -1,6 +1,14 @@
 ### Hi there 👋
 
-<!--
+Homem-Aranha (Spider-Man), o alter ego de Peter Parker, é um super-herói que aparece nas revistas em quadrinhos publicadas pela Marvel Comics. 
+
+Capitã Marvel é uma alienígena Kree que se encontra no meio de uma batalha entre seu povo e os Skrulls. Com a ajuda de Nick Fury, ela tenta impedir uma invasão na Terra, descobrir os segredos de seu passado e pôr um fim ao antigo conflito.
+
+Ao nascer, a Viúva Negra, então conhecida como Natasha Romanova, é entregue à KGB, que a prepara para se tornar sua agente suprema. Porém, o seu próprio governo tenta matá-la quando a União Soviética se desfaz
+
+![](https://github.com/jessz36/jessz36/assets/148448714/59311888-460f-4b7c-98ed-325c7e88adeb)
+
+
 **jessz36/jessz36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
